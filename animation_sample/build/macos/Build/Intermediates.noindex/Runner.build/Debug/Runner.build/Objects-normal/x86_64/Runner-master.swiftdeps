@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "5c3c4e2f86a37a28addebe759bacdb8e"
+build_time: [1618845920, 59701000]
+inputs:
+  "/Users/hondakenya/Desktop/animation_sample/macos/Runner/MainFlutterWindow.swift": [1605297494, 0]
+  "/Users/hondakenya/Desktop/animation_sample/macos/Runner/AppDelegate.swift": [1605297494, 0]
+  "/Users/hondakenya/Desktop/animation_sample/macos/Flutter/GeneratedPluginRegistrant.swift": [1618845904, 265032820]
